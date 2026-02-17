@@ -10,7 +10,7 @@ print(10+20)
 #Creating variables to store my name, age, and city and Printing them in a single output statement.
 name="Akumath Saniya"
 age=20
-city=Madanapalle
+city="Madanapalle"
 print("name: ",name,"Age: ",age,"city: ",city)
 #3 valid variable names
 print("Valid variable name are: ")
@@ -37,7 +37,7 @@ print(type(floating))
 print(string)
 print(type(string))
 print(boolean)
-print(type(Boolean))
+print(type(boolean))
 #Converting an integer into a float and printing the result.
 con_to_float=float(integer)
 print("Coverted an integer to floating point: ",con_to_float)
@@ -48,7 +48,7 @@ print("First value using indexing: ",string1[0])
 #Printing the last character using negative indexing.
 print("Last charector using negative indexing: ",string1[-1])
 #slicing first 6 charectors of String
-substring=string1[0:5:1]
+substring=string1[0:6:1]
 print("Sliced first 6 charectors of string(PYTHONPROGRAM: ",substring)
 
 
