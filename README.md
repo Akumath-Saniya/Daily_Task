@@ -31,6 +31,6 @@ Task_5.py
 	Naming rules of Variables,
 	Assigning different types of variables,
 	reassigning and updating variable and
-	indexing for a string
+	indexing and slicing (start:stop:step) for a string.
 	
 	

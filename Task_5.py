@@ -47,5 +47,8 @@ string1="PYTHONPROGRAM"
 print("First value using indexing: ",string1[0])
 #Printing the last character using negative indexing.
 print("Last charector using negative indexing: ",string1[-1])
+#slicing first 6 charectors of String
+substring=string1[0:5:1]
+print("Sliced first 6 charectors of string(PYTHONPROGRAM: ",substring)
 
 
