@@ -26,3 +26,11 @@ Task_4.py
 	Even two identifiers with same value has different unique identifier(Stored in different address)
 	printed by using the function id().
 	
+Task_5.py
+	I learnt about print function,Type function,
+	Naming rules of Variables,
+	Assigning different types of variables,
+	reassigning and updating variable and
+	indexing for a string
+	
+	
