@@ -3,8 +3,8 @@ print("Akumath Saniya")
 print("B.Tech")
 print("My goal is to become a good python developer")
 #printing a sentence using single quotes and double quotes
-print('VJ Innovative Software Solutions PVT LTD')
-print("VJ Innovative Software Solutions PVT LTD")
+print("\'VJ Innovative Software Solutions PVT LTD\'")
+print("\"VJ Innovative Software Solutions PVT LTD\"")
 #printing the result of 10 + 20 inside the print() function.
 print(10+20)
 #Creating variables to store my name, age, and city and Printing them in a single output statement.
@@ -13,15 +13,24 @@ age=20
 city="Madanapalle"
 print("name: ",name,"Age: ",age,"city: ",city)
 #3 valid variable names
+Student="Saniya"
+Student_Name="Akumath Saniya"
+Student123="Sanu"
 print("Valid variable name are: ")
-print("Student")
-print("Student_Name")
-print("Student123")
+print("Student: ",Student)
+print("Student_Name: ",Student_Name)
+print("Student123: ",Student123)
 #3 invalid variable names
 print("Invalid Variable names: ")
-print("1Student "+" This is invalid because the variable name should not start with numbers")
-print("Student name "+" This is invalid because space is a special charector only underscore and dollor are valis in variable names")
-print("@^! "+" This is invalid because only charectors and numbers are allowed in variable names")
+#This is invalid because the variable name should not start with numbers
+#1Student="Saniya"
+#This is invalid because space is a special charector only underscore and dollor are valis in variable names
+#Student name="Akumath Saniya"
+#This is invalid because only charectors and numbers are allowed in variable names
+#@Student="Sanu"
+print("1Student Error:"," 1Student=\"Saniya\" SyntaxError: invalid decimal literal")
+print("Student name error: ","Student name=\"Akumath Saniya\" SyntaxError: invalid syntax")
+print("@Student Error: ","@Student\Sanu\"SyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?")
 #Reassigning a new value to an existing variable and printing the updated value.
 age=21
 print("Updated value for age: " ,age)
