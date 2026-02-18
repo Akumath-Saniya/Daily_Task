@@ -33,4 +33,9 @@ Task_5.py
 	reassigning and updating variable and
 	indexing and slicing (start:stop:step) for a string.
 	
+Task_6.py
+	I have learnt about Slicing a string in positive direction at different indexes of a string,
+	Slicing a list to extract its elements from different indexes 
+	and Using len() function in slicing as per requirement. 
+	
 	
