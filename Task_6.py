@@ -5,7 +5,7 @@ first_5=string1[0:6:1]
 #Characters from index 2 to 8
 two_to_eight=string1[2:9:1]
 #Characters from index 2 to 8
-every_2=string1[1:int(len(string1)):2]
+every_2=string1[1::2]
 #First half of the string
 first_half=string1[1:int(len(string1)/2):1]
 print("String: ",string1)
@@ -21,13 +21,11 @@ first_4=numbers[0:5:1]
 #Extract elements from index 3 to 7
 three_to_seven=numbers[3:8:1]
 #Extract alternate elements
-alternate_ele=numbers[0:int(len(numbers)):2]
+alternate_ele=numbers[0::2]
 #Extract middle 3 elements
-middle_3=numbers[(int(len(numbers)/2)-1):int((len(numbers)/2)+2):1]
+middle_3=numbers[4:7:1]
 print("List: ",numbers)
 print("First Four elements of the list: ",first_4)
 print("elements from index 3 to 7 of the list: ",three_to_seven)
 print("Alternate elements of the list: ",alternate_ele);
 print("middle 3 elements of the list: ",middle_3)
-
-
