@@ -42,5 +42,5 @@ Task_7.py
 	I Learnt about Slicing of a string in both positive and negative directions,
 	Slicing of a list in both directions,
 	Slicing of a tuple in both directions and 
-	Reversing of an iterable.
+	Reversing of an iterable using Slicing.
 	
