@@ -34,8 +34,13 @@ Task_5.py
 	indexing and slicing (start:stop:step) for a string.
 	
 Task_6.py
-	I have learnt about Slicing a string in positive direction at different indexes of a string,
+	I learnt about Slicing a string in positive direction at different indexes of a string,
 	Slicing a list to extract its elements from different indexes 
 	and Using len() function in slicing as per requirement. 
 	
+Task_7.py
+	I Learnt about Slicing of a string in both positive and negative directions,
+	Slicing of a list in both directions,
+	Slicing of a tuple in both directions and 
+	Reversing of an iterable.
 	
