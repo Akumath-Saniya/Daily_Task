@@ -44,3 +44,11 @@ Task_7.py
 	Slicing of a tuple in both directions and 
 	Reversing of an iterable using Slicing.
 	
+Task_8.py
+	I learnt about all the Data Types,doing operations with them and 
+	finding their type.
+	Type conversions from int to binary,octal,hexa decimal.
+	converting binary string ,octal string,hexa decimal string to integer.
+	slicing and indexing in differect ways of a string and list.
+	Performing Arthematic and assignments operations using corresponding operators.
+	Comparision operators comparing two strings and two lists.
